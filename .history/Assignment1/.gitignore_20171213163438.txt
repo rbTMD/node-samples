@@ -1,3 +1,0 @@
-/node_modules
-customer-data.csv
-customer-data.json
